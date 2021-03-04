@@ -67,7 +67,7 @@ nav .sidenav-trigger i {
   font-size: 0.9rem;
   font-weight: 100;
   font-family: 'Oswald', sans-serif;
-  background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d); }
+  background: #212121; }
 
 .responsive {
   position: relative;
