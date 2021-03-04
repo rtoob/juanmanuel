@@ -1,0 +1,97 @@
+body {
+  background-color: #212121; }
+
+nav#navbar {
+  background-color: #212121;
+  box-shadow: none;
+  height: 96px;
+  padding: 86px; }
+
+nav#navbar a {
+  color: #ffffff; }
+
+#myslider {
+  height: 650px;
+  width: 100%; }
+
+.slider {
+  width: 100%;
+  padding-bottom: 25%; }
+
+.slider img {
+  width: 100%; }
+
+.wrapper {
+  width: 100%;
+  margin: 0; }
+
+nav .sidenav-trigger i {
+  font-size: 26px; }
+
+@media only screen and (min-width: 1024px) {
+  .wrapper {
+    width: 1024px;
+    margin: auto; } }
+
+@media only screen and (min-width: 1024px) {
+  .nav-wrapper {
+    width: 1024px;
+    margin: auto; } }
+
+#bio {
+  padding-top: 20px; }
+
+.banner-text p {
+  color: #ffffff;
+  font-size: 1.1rem;
+  margin-top: 67px;
+  font-weight: 400;
+  font-family: 'Abel', sans-serif;
+  text-align: justify;
+  line-height: 140%; }
+
+#footer {
+  padding-top: 20px;
+  color: #1EB980;
+  background-color: #212121; }
+
+.proyecto-text p {
+  color: #ffffff;
+  font-size: 1.1rem;
+  font-weight: 400;
+  font-family: 'Abel', sans-serif;
+  text-align: center;
+  line-height: 140%; }
+
+.waves-effect.waves-light.btn.right {
+  font-size: 0.9rem;
+  font-weight: 100;
+  font-family: 'Oswald', sans-serif;
+  background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d); }
+
+.responsive {
+  position: relative;
+  padding-bottom: 56.2%;
+  height: 0;
+  margin: 10px 0;
+  overflow: hidden; }
+
+.responsive embed, iframe, object, video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0; }
+
+@media only screen and (max-width: 992px) {
+  #myslider {
+    height: 212px; } }
+
+@media only screen and (max-width: 992px) {
+  .responsive {
+    height: 950px; } }
+
+@media only screen and (max-width: 992px) {
+  .brand-logo img {
+    margin-left: 26px; } }
